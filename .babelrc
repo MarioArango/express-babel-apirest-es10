@@ -1,0 +1,11 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ],
+    "plugins": [
+        ["@babel/transform-runtime"]
+    ]
+}
+//PARA CORRES EN PRODUCCION
+//npm install @babel/runtime -D
+//npm install @babel/plugin-transform-runtime -D
